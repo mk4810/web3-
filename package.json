@@ -1,0 +1,15 @@
+{
+  "name": "你的包名",
+  "version": "1.0.0",
+  "description": "Web3社交npm包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Web3", "Ethereum", "Social"],
+  "author": "你的名字",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.0.0"
+  }
+}
